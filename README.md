@@ -13,6 +13,7 @@ Develop a basic application that uses the CoinGecko API to fetch real-time crypt
 2. **LangChain and ChatOllama Integration:**
    - Implement LangChain to manage the workflow between fetching the data and processing it through ChatOllama. The application should take the real-time price data, send it to ChatOllama, and generate predictions or insights such as "The price trend suggests a possible increase in the next few hours due to market volatility."
    - Link to Doc: https://js.langchain.com/docs/get_started/quickstart
+   - https://learn.deeplearning.ai/courses/build-llm-apps-with-langchain-js/lesson/1/introduction - Easiest way to learn Langchain
 
 3. **Application Logic:**
    - Set up the LangChain logic to automate the process of data retrieval, query generation for ChatOllama, receiving the response, and presenting it to the user.
