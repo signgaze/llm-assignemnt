@@ -32,5 +32,3 @@ Develop a basic application that uses the CoinGecko API to fetch real-time crypt
 - Functionality: Does the application successfully fetch data, process it, and display results?
 - Code Quality: Is the code well-structured, readable, and commented?
 - Innovation and Insight: Quality of insights generated and their relevance to real-world applications.
-
-This simplified assignment focuses on integrating well-understood technologies and APIs, making it easier for the developer to demonstrate their skills without needing to navigate complex or less familiar APIs. The CoinGecko API is robust and provides plenty of data for a meaningful demonstration of real-time API integration and predictive analytics using AI technologies.
